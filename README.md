@@ -4,6 +4,10 @@ This project demonstrates how to integrate **Toastr.js** notifications in a **La
 
 👉 [Read full tutorial on itstuffsolutiotions.io](https://itstuffsolutiotions.io/laravel-12-toastr-js-notifications-example/)
 
+## 📸 Project Preview
+
+![Laravel Toastr Notification Example](https://itstuffsolutiotions.io/wp-content/uploads/2025/07/laravel-12-toastr-js-notification-example-preview.webp)
+
 ## 🚀 Features
 
 - Laravel 12 setup  
